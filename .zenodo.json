@@ -1,0 +1,43 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "Синтетические респонденты в анкетном опросе: эмпирическая проверка на данных опроса студентов / Synthetic Respondents in Survey Research: An Empirical Test Against a Student Survey",
+  "description": "<p><b>Preprint (Russian original + author's English version).</b> Не проходил рецензирование / Not peer reviewed.</p><p>The paper tests empirically the limits of applicability of synthetic respondents — large language models answering survey questions on behalf of \"digital twins\" built from the socio-demographic characteristics of real people. The benchmark is the author's own survey of RANEPA students (\"Scientific Code\" programme, 2024, N = 1,795, 39 items), in which every human answer is known. Each twin was built from five attributes taken as a whole from one respondent's row; DeepSeek re-answered 36 coded questions in 64,620 independent calls.</p><p>The twin reproduces the central tendency and the direction of demographic differences (gender differences matched on 85% of items) but systematically narrows the spread of answers (mean SD 0.52 vs. 1.04), avoids extreme scale points (36% vs. 50%) and the \"hard to say\" option, weakens associations between answers from different thematic blocks threefold (mean |r| 0.10 vs. 0.27) and does not convey individuality (own twin 37.9% vs. random twin 36.5%). Three levels of synthetic-respondent behaviour are distinguished (distributions, spread, associations and individual answers). Conclusion: a synthetic respondent is a means of preparing measurement (questionnaire pretesting), not a measurement instrument. A hypothesis is formulated on using human–twin discrepancies to detect socially desirable responding.</p><p>Files: PAPER-RU.md / PAPER-RU.pdf (Russian original, primary version), PAPER-EN.md / PAPER-EN.pdf (author's English version). Primary survey data are not published. Popular-science version: https://inna-gazieva.ru/instrumenty/sinteticheskie-respondenty/</p>",
+  "creators": [
+    {
+      "name": "Gazieva, Inna",
+      "orcid": "0000-0002-0778-7171",
+      "affiliation": "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+    }
+  ],
+  "publication_date": "2026-09-24",
+  "language": "rus",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "synthetic respondents",
+    "silicon sampling",
+    "large language models",
+    "survey research",
+    "survey methodology",
+    "social desirability",
+    "university students",
+    "синтетические респонденты",
+    "силиконовая выборка",
+    "большие языковые модели",
+    "анкетный опрос",
+    "методология социологических исследований"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://inna-gazieva.ru/instrumenty/sinteticheskie-respondenty/",
+      "relation": "isVariantFormOf",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.12737/2133680",
+      "relation": "references",
+      "resource_type": "publication-book"
+    }
+  ],
+  "notes": "Russian text is the primary version; the English file is the author's own version. Author: https://inna-gazieva.ru/ · ORCID 0000-0002-0778-7171 · Wikidata Q140355257."
+}

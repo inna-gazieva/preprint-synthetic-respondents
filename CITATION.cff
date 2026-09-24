@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: >-
+  If you use or cite this work, please cite it using the metadata below.
+  The Russian text is the primary version; an author's English version is included.
+type: dataset
+title: >-
+  Синтетические респонденты в анкетном опросе: эмпирическая проверка на данных опроса студентов /
+  Synthetic Respondents in Survey Research: An Empirical Test Against a Student Survey
+authors:
+  - family-names: "Gazieva"
+    given-names: "Inna"
+    orcid: "https://orcid.org/0000-0002-0778-7171"
+    affiliation: "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+url: "https://inna-gazieva.ru/instrumenty/sinteticheskie-respondenty/"
+repository-code: "https://github.com/inna-gazieva/preprint-synthetic-respondents"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-09-24"
+keywords:
+  - synthetic respondents
+  - silicon sampling
+  - large language models
+  - survey methodology
+preferred-citation:
+  type: article
+  status: preprint
+  title: >-
+    Синтетические респонденты в анкетном опросе: эмпирическая проверка на данных опроса студентов
+  authors:
+    - family-names: "Gazieva"
+      given-names: "Inna"
+      orcid: "https://orcid.org/0000-0002-0778-7171"
+      affiliation: "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  languages:
+    - rus
+    - eng
