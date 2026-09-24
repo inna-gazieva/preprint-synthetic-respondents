@@ -2,12 +2,37 @@
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "ScholarlyArticle",
   "name": "Синтетические респонденты в анкетном опросе: эмпирическая проверка на данных опроса студентов / Synthetic Respondents in Survey Research: An Empirical Test Against a Student Survey",
-  "author": [{"@type": "Person", "givenName": "Inna", "familyName": "Gazieva", "@id": "https://orcid.org/0000-0002-0778-7171", "affiliation": {"@type": "Organization", "name": "RANEPA"}, "sameAs": ["https://www.wikidata.org/wiki/Q140355257", "https://inna-gazieva.ru/"]}],
-  "inLanguage": ["ru", "en"],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Inna",
+      "familyName": "Gazieva",
+      "@id": "https://orcid.org/0000-0002-0778-7171",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "RANEPA"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q140355257",
+        "https://inna-gazieva.ru/"
+      ]
+    }
+  ],
+  "inLanguage": [
+    "ru",
+    "en"
+  ],
   "license": "https://spdx.org/licenses/CC-BY-4.0",
   "codeRepository": "https://github.com/inna-gazieva/preprint-synthetic-respondents",
   "url": "https://inna-gazieva.ru/instrumenty/sinteticheskie-respondenty/",
   "dateCreated": "2026-09-24",
   "version": "1.0",
-  "keywords": ["synthetic respondents", "silicon sampling", "large language models", "survey methodology", "синтетические респонденты"]
+  "keywords": [
+    "synthetic respondents",
+    "silicon sampling",
+    "large language models",
+    "survey methodology",
+    "синтетические респонденты"
+  ],
+  "identifier": "https://doi.org/10.5281/zenodo.22939959"
 }

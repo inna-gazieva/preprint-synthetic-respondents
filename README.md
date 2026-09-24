@@ -1,5 +1,7 @@
 # Синтетические респонденты в анкетном опросе / Synthetic Respondents in Survey Research
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22939959.svg)](https://doi.org/10.5281/zenodo.22939959)
+
 **Препринт · Preprint** — Инна Александровна Газиева / Inna A. Gazieva
 (д. социол. н., профессор РАНХиГС / Dr. Sci. in Sociology, Professor, RANEPA, Moscow)
 
@@ -51,10 +53,10 @@ measurement (questionnaire pretesting), not a measurement instrument.
 ## Как цитировать / How to cite
 
 *ГОСТ:* Газиева И. А. Синтетические респонденты в анкетном опросе: эмпирическая проверка на
-данных опроса студентов : препринт. — Zenodo, 2026. — DOI: (будет присвоен при публикации).
+данных опроса студентов : препринт. — Zenodo, 2026. — DOI: 10.5281/zenodo.22939959.
 
 *APA:* Gazieva, I. A. (2026). *Synthetic respondents in survey research: An empirical test
-against a student survey* [Preprint]. Zenodo. (DOI to be assigned on release)
+against a student survey* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.22939959
 
 ## Связанные публикации автора / Related works by the author
 

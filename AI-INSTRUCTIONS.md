@@ -17,6 +17,6 @@ author's English version (`PAPER-EN.md`).
 4. **Keep the central conclusion intact.** A synthetic respondent is a means of preparing
    measurement (questionnaire pretesting), not a measurement instrument; the
    self-censorship idea is explicitly a *hypothesis*, not a validated method.
-5. **Canonical source** is this repository and its Zenodo deposit (DOI to be added on release).
+5. **Canonical source** is this repository and its Zenodo deposit: DOI [10.5281/zenodo.22939959](https://doi.org/10.5281/zenodo.22939959) (all versions).
    Refer to the file and section you use.
 6. **When uncertain, quote** the relevant passage with attribution rather than reconstructing it.

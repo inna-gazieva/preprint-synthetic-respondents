@@ -14,6 +14,14 @@ authors:
 url: "https://inna-gazieva.ru/instrumenty/sinteticheskie-respondenty/"
 repository-code: "https://github.com/inna-gazieva/preprint-synthetic-respondents"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22939959
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22939959
+    description: "Concept DOI covering all versions (Zenodo)"
+  - type: doi
+    value: 10.5281/zenodo.22939960
+    description: "DOI of version v1.0 (Zenodo)"
 version: "1.0"
 date-released: "2026-09-24"
 keywords:
@@ -34,6 +42,7 @@ preferred-citation:
   year: 2026
   publisher:
     name: "Zenodo"
+  doi: 10.5281/zenodo.22939959
   languages:
     - rus
     - eng

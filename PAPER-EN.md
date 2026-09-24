@@ -5,7 +5,7 @@
 Russian Presidential Academy of National Economy and Public Administration (RANEPA), Moscow, Russia  
 ORCID: [0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171) · gazieva-ia@ranepa.ru
 
-*Preprint. Not peer reviewed.*
+*Preprint. Not peer reviewed.* DOI: [10.5281/zenodo.22939959](https://doi.org/10.5281/zenodo.22939959)
 
 > **Author's English version.** This is the author's English version of a preprint written in Russian
 > («Синтетические респонденты в анкетном опросе: эмпирическая проверка на данных опроса студентов»,
