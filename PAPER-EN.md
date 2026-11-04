@@ -96,6 +96,10 @@ A single language model was tested on a single questionnaire and a single popula
 
 The test showed that a synthetic respondent based on a large language model is a "smoothed shadow" of the real sample: it guesses the direction in which a conclusion is drawn but systematically loses the spread, the uncertainty, the associations between answers and the individuality of the respondent. This makes it possible to formulate a principle that, in our view, applies to the use of artificial intelligence tools in research in general: a neural network speeds up preparatory work but substitutes neither for the measurement itself nor for the verification of its results. What is reasonable is not replacing people with a model but a hybrid scheme in which the twin speeds up the preparation of the instrument, while an obligatory human minimum remains a condition of measurement.
 
+## Acknowledgements
+
+The author thanks Ruslan Gaziev for the technical implementation of the experiment: the software and the work with the language model.
+
 ---
 
 ## References

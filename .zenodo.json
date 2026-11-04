@@ -10,7 +10,13 @@
       "affiliation": "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
     }
   ],
-  "publication_date": "2026-09-24",
+  "contributors": [
+    {
+      "name": "Gaziev, Ruslan",
+      "type": "Other"
+    }
+  ],
+  "publication_date": "2026-11-04",
   "language": "rus",
   "license": "cc-by-4.0",
   "keywords": [

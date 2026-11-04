@@ -18,6 +18,13 @@
       ]
     }
   ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "givenName": "Ruslan",
+      "familyName": "Gaziev"
+    }
+  ],
   "inLanguage": [
     "ru",
     "en"
@@ -26,7 +33,7 @@
   "codeRepository": "https://github.com/inna-gazieva/preprint-synthetic-respondents",
   "url": "https://inna-gazieva.ru/instrumenty/sinteticheskie-respondenty/",
   "dateCreated": "2026-09-24",
-  "version": "1.0",
+  "version": "1.1",
   "keywords": [
     "synthetic respondents",
     "silicon sampling",
